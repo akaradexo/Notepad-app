@@ -114,7 +114,7 @@ textarea:focus{
 .search{
   display: flex;
   align-items: center;
-  background-color: white;
+  background-color: #fbf7f6;
   border-radius: 1rem;
   padding: 0.4rem 2rem;
   margin: 2rem auto;
